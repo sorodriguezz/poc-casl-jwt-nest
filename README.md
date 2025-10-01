@@ -28,7 +28,7 @@
 1. **Clona el repositorio y entra al directorio:**
 
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/sorodriguezz/poc-casl-jwt-nest.git
    cd nest-casl-app
    ```
 
